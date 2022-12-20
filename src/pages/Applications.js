@@ -8,7 +8,7 @@ const Applications = () => {
     <div class=" grid items-center text-xl" > 
         <div class="grid grid-rows-2 grid-cols-2 w-1/2" id="home_left">
                 
-                <div>TBD</div>
+                <div>Vending Services <a href='https://github.com/ndubuisiazi/Project3'/></div>
                 <div></div>
                 <div></div>
                 <div></div>
